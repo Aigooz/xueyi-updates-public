@@ -1,11 +1,11 @@
 {
-  "versionCode": 95,
-  "versionName": "1.95",
-  "changelog": "修复应用内“检查更新”未推送的问题：更新清单与安装包改为匿名可访问的公开源；已安装 v1.94 的用户可直接升级。优化更新线路自动回退与下载完整性校验。",
+  "versionCode": 96,
+  "versionName": "1.96",
+  "changelog": "更新下载改为多线路并行竞速，自动采用最快镜像；补充镜像测速线路与真实进度计算，减少连接成功却长时间停在 0% 的情况。",
   "force": false,
   "size": 532708,
-  "sha256": "E83CB5B8822FB0A05F076FF78BA75EC01D1FECBCB4552A00BC903B3F728DC9FD",
-  "publishedAt": "11/19/2026 14:45:00",
+  "sha256": "496678488BA457990D755161B1B7D313E02F682F04CF7F3B9D024309A5941936",
+  "publishedAt": "11/19/2026 15:28:47",
   "downloadUrl": "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/xueyi-updates-public/main/xueyi-latest.apk",
   "downloadUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/xueyi-updates-public/main/xueyi-latest.apk",
