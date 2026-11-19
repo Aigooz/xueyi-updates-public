@@ -1,0 +1,13 @@
+{
+  "versionCode": 95,
+  "versionName": "1.95",
+  "changelog": "修复应用内“检查更新”未推送的问题：更新清单与安装包改为匿名可访问的公开源；已安装 v1.94 的用户可直接升级。优化更新线路自动回退与下载完整性校验。",
+  "force": false,
+  "size": 532708,
+  "sha256": "E83CB5B8822FB0A05F076FF78BA75EC01D1FECBCB4552A00BC903B3F728DC9FD",
+  "publishedAt": "11/19/2026 14:45:00",
+  "downloadUrl": "https://raw.githubusercontent.com/Aigooz/xueyi-updates-public/main/xueyi-latest.apk",
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/Aigooz/xueyi-updates-public/main/xueyi-latest.apk"
+  ]
+}
