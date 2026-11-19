@@ -1,11 +1,11 @@
 {
-  "versionCode": 96,
-  "versionName": "1.96",
-  "changelog": "更新下载改为多线路并行竞速，自动采用最快镜像；补充镜像测速线路与真实进度计算，减少连接成功却长时间停在 0% 的情况。",
+  "versionCode": 97,
+  "versionName": "1.97",
+  "changelog": "修正空教室和全校课程的学期及列表处理；空教室支持15个楼栋和第1至12节，失败不回退旧排课。",
   "force": false,
-  "size": 532708,
-  "sha256": "496678488BA457990D755161B1B7D313E02F682F04CF7F3B9D024309A5941936",
-  "publishedAt": "11/19/2026 15:28:47",
+  "size": 536885,
+  "sha256": "2EE5EE10576426A6C2DC43BA009F8717641FDBE00515C1735C7B0EF2F0645F04",
+  "publishedAt": "2026-11-19T19:23:52.2473512Z",
   "downloadUrl": "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/xueyi-updates-public/main/xueyi-latest.apk",
   "downloadUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/xueyi-updates-public/main/xueyi-latest.apk",
